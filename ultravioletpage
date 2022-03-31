@@ -1,0 +1,79 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>U&#8203;ltrav&#8203;iolet (Be&#173;ta)</title>
+    <meta name="description" content="T&#173;he n&shy;ew hi&shy;ghly inno&shy;vati&#8203;ve pro&#8203;xy of Ti&#8203;tan&#8203;ium Net&shy;work usin&shy;g technol&#8203;ogies suc&#8203;h as se&#8203;rvice worke&shy;rs an&#173;d s&#8203;ophist&#8203;icated r&#8203;ewri&#173;ting&shy; tec&shy;hniq&#173;ues wit&shy;h CAP&shy;TCH&shy;A su&#173;ppo&shy;rt. Ul&#8203;trav&#8203;iol&#173;et focus&#8203;es on sp&shy;eed wi&shy;th Yo&shy;uT&#8203;ube, no&shy;w.gg, Spo&shy;tif&#8203;y, Cool&#8203;M&#8203;athG&#8203;ames and vari&shy;ous .io sit&#8203;es!"
+    />
+    <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#434c5e">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/img/icon.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+    <link rel="stylesheet" href="assets/css/styles-1644738239.css">
+    <script defer="defer" src="https://cdn.jsdelivr.net/npm/tsparticles@1.39.2/tsparticles.min.js" integrity="sha256-FCz5ToEA27payrGYaVGRidiIA+68Z31TBXFzcIT1/gU=" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <span style="display: none;" data-fact="Example7" data-type="Example7">Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2</span>
+    <div id="header" class="fullwidth"></div>
+    <div id="particles-js" class="fullwidth"></div>
+    <div id="mainbody" class="fullwidth">
+        <div class="ad" id="ad-left"></div>
+        <div class="ad" id="ad-right"></div>
+        <span style="display: none;" data-fact="Example5" data-type="Example3">Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2Example2</span>
+        <div class="box box-medium text-center textm">
+            <h1 class="bigtitle">Ultraviolet (Beta)</h1>
+            <img id="cor-logo" class="pr-logo" src="/assets/img/uv2.png" alt="Ultraviolet TN Logo">
+            <p>T&shy;he hi&#173;ghly inno&shy;vati&#8203;ve pr&#8203;ox&#8203;y of Tit&shy;aniu&#8203;m Netw&shy;ork usi&#173;ng tec&#8203;hnologi&#173;es such as servi&shy;ce wor&#8203;kers and soph&#8203;isticated rewr&#8203;iting techniq&#173;ues wit&shy;h
+                CAPT&#8203;CHA suppor&#173;t.</p>
+            <div id="pr-form">
+                <input type="text" id="pr-url" spellcheck="false" autocomplete="off" placeholder="Search or enter in a target site!">
+                <a href="#" id="pr-go1" class="pr-button glowbutton">Cl&#173;assic</a>
+                <a href="#" id="pr-go2" class="pr-button glowbutton">Stea&shy;lth</a>
+            </div>
+            <h3>More Information:</h3>
+            <div class="font3">
+                <p class="accented">
+                    Focusing on speed UV works with Y&#173;ouT&shy;ube, no&#8203;w.gg, Spoti&#8203;fy, Co&shy;ol&#8203;Mat&shy;hGam&#173;es and various .i&#8203;o sites!
+                    <br>CAP&#8203;TCHA is supp&shy;ort&#173;ed!
+                    <br>Ultr&#8203;a&shy;viol&shy;et is highly rec&#173;ommended due to its speed and enh&#173;anced su&#173;pport for almost ev&shy;ery site ma&#8203;king it one of the m&shy;ost advanc&#173;ed web pr&shy;o&#173;xi&shy;es.
+                    <br>Sites with given support for logging in are Tw&#173;itter, Spo&shy;tify, Red&#8203;dit, and Disco&#173;rd. YouTu&shy;be allow&#173;s for ne&#173;arly f&#173;ull fun&#8203;ctiona&#173;lity.
+                    <br>D&shy;isco&#173;rd support on Ram&#173;merhe&shy;ad is a KNO&#173;WN bug. It is being worked on.
+                </p>
+                <p class="accented">
+                    Comm&#8203;on Errors with Soluti&#8203;ons:
+                    <br>- Having issues with CAPTC&#8203;HAs? It will take trial and error but try to go slow when it comes to solving them. CAP&#173;TCHA is a g&shy;iven but will take a f&shy;ew atte&#173;mpts.
+                    <br>- Try using Classic mode or doing 'Reload Frame'. ("cdn.example.com" cannot be reached.)
+                    <br>- You may not be able to &#8203;lo&shy;gin normally into a number of sites. Phone verification on a select number of sites may occur also with no real sol&shy;uion.
+                </p>
+                <p>GitHub:&nbsp;<a class="bluelink" id="tnlink"><strong>https://github.com/titaniumnetwork-dev</strong></a></p>
+            </div>
+        </div>
+    </div>
+    <div id="footer" class="fullwidth"></div>
+    <span style="display: none;" data-fact="Example3" data-type="Example9">Example1Example1Example1Example1Example1Example1Example1Example1Example1Example1Example1Example1Example1Example1Example1Example1Example1Example1Example1Example1Example1Example1Example1Example1Example1</span>
+    <script src="assets/js/common-16451543478.js"></script>
+    <script src="assets/js/links-1644738239.js"></script>
+    <script src="assets/js/prset.js"></script>
+    <script>
+        prSet("ultraviolet");
+    </script>
+    <script src="uv.bundle.js"></script>
+    <script src="uv.config.js"></script>
+    <script>
+        if ('serviceWorker' in navigator) {
+            window.navigator.serviceWorker.register('/sw.js', {
+                scope: __uv$config.prefix,
+            });
+        };
+    </script>
+    <script src="assets/js/header-1644738239.js"></script>
+    <script src="assets/js/csel.js"></script>
+    <script src="assets/js/footer-1644738239.js"></script>
+    <script defer="defer" src="assets/js/particlesjs/particles.js"></script>
+</body>
+
+</html>
